@@ -1,0 +1,13 @@
+
+/// ------ CONNECT WEB TO PYTHON ------ ///
+if we want to connect a python script with html/css/js then put this script tag in the html head tags
+
+<script defer src="https://pyscript.net/unstable/pyscript.js"></script>
+
+then in ur body tags somewhere use the <py-script output="whateverYouWantHere">and here goes ur python scripts</py-script>
+
+then where ever you want the python output to be have a div with the id=whateverYouPut as your output for the py-script tags
+
+
+/// ------ QR CODE GENERATOR ------ ///
+also for qr code generator you need to pip install qrcode and also pip install Pillow before using
