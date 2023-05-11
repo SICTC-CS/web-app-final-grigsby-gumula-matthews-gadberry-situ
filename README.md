@@ -7,9 +7,6 @@
 ## How to setup a new inventory (QR code generation to adding into system) in the system
 
 
-## How to recreate the code to sort and search for the products
-
-
 ## ERD for database
 <kbd>
 <img src="https://github.com/SICTC-CS/web-app-final-grigsby-gumula-matthews-gadberry-situ/blob/main/img/erd2.png"></kbd>
